@@ -2,7 +2,7 @@
   "description": "aoinan monorepo",
   "devDependencies": {
     "aberlaas": "1.25.0",
-    "lerna": "4.0.0"
+    "lerna": "7.0.0"
   },
   "files": [],
   "homepage": "https://projects.pixelastic.com/aoinan/",
