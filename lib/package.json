@@ -2,7 +2,7 @@
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
     "firost": "2.17.0",
-    "golgoth": "2.1.0",
+    "golgoth": "2.4.0",
     "nodemw": "0.16.0",
     "wtf-plugin-html": "0.2.2",
     "wtf_wikipedia": "9.0.1"
