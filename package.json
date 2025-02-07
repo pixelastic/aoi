@@ -1,7 +1,7 @@
 {
   "description": "aoinan monorepo",
   "devDependencies": {
-    "aberlaas": "1.25.0",
+    "aberlaas": "2.13.0",
     "lerna": "4.0.0"
   },
   "files": [],
