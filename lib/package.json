@@ -3,9 +3,9 @@
   "dependencies": {
     "firost": "2.17.0",
     "golgoth": "2.1.0",
-    "nodemw": "0.16.0",
-    "wtf-plugin-html": "0.2.2",
-    "wtf_wikipedia": "9.0.1"
+    "nodemw": "0.24.0",
+    "wtf-plugin-html": "0.2.4",
+    "wtf_wikipedia": "9.1.0"
   },
   "description": "<> Simplified crawling of wikis",
   "files": [
